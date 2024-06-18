@@ -2,7 +2,7 @@ package com.SampleTask.SampleProgram;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
-
+//my first edit
 @SpringBootApplication
 public class SampleProgramApplication {
 
